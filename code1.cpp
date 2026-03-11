@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-    cout << "hello/n";
+    cout << "hello bro, how git /n";
+    // hi
 }
